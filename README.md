@@ -1,7 +1,3 @@
-<style type="text/css" rel="stylesheet">
-img { margin: 2px }
-</style>
-
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 
 <h3 align="center">My name is Daniel and I have been working with webdesign and development since 2000.</h3>
