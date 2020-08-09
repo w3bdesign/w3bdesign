@@ -11,4 +11,4 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/wordpress/wordpress-plain.svg" alt="php" width="50" height="50"/>
 </p>
 <br />
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=w3bdesign&show_icons=true&hide_border=true" />
+<img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=w3bdesign&show_icons=true&hide_border=true" />
