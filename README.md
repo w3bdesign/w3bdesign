@@ -17,6 +17,6 @@
   </p>
   <hr />
   <p align="center">
- <img align="center" alt="w3bdesign's Github Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w3bdesign" />
+ <img align="center" alt="w3bdesign's Github Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w3bdesign&hide=html,css" />
    </p>
 
