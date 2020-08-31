@@ -17,6 +17,7 @@
   <img height="50" width="50" alt="react" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <hr />
+<h2 align="center">📈 Github Stats</h2>
 <p align="center">
  <img align="center" alt="w3bdesign's Github Stats" src="https://github-readme-stats-six-rho.vercel.app/api?username=w3bdesign&show_icons=true&hide_border=false" />
   </p>
