@@ -2,7 +2,7 @@
 
 <h3 align="center">My name is Daniel and I have been working with webdesign and development since 2000. </h3>
 
-<h2 align="center">🛠️ <img src="https://github.com/w3bdesign/w3bdesign/blob/master/svg/languages2.svg" alt="Language image" /></h2>
+<h2 align="center">🛠️ <img src="https://github.com/w3bdesign/w3bdesign/blob/master/svg/languages3.svg" alt="Language image" /></h2>
 <p align="center">
   <img height="50" width="50" alt="react" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="50" width="50" alt="react" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -10,7 +10,7 @@
   <img height="50" width="50" alt="react" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="50" width="50" alt="react" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" />&nbsp;&nbsp;&nbsp;&nbsp; 
 </p>
-<h2 align="center">🛠️ <img src="https://github.com/w3bdesign/w3bdesign/blob/master/svg/tools2.svg" alt="Tools image" /></h2>
+<h2 align="center">🛠️ <img src="https://github.com/w3bdesign/w3bdesign/blob/master/svg/tools3.svg" alt="Tools image" /></h2>
 <p align="center">
   <img height="50" width="50" alt="react" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="50" width="50" alt="mysql" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />&nbsp;&nbsp;&nbsp;&nbsp;  
