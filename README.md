@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://github.com/w3bdesign/w3bdesign/blob/master/svg/header2.svg" alt="Header image" /></h1>
+<h1 align="center"><img src="https://github.com/w3bdesign/w3bdesign/blob/master/svg/header3.svg" alt="Header image" /></h1>
 
 <h3 align="center">My name is Daniel and I have been working with webdesign and development since 2000. </h3>
 
