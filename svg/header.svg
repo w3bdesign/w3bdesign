@@ -13,6 +13,7 @@
           animation: enter 3s cubic-bezier(0.215, 0.61, 0.355, 1) both;
           font-size: 40px;
           font-family: lato;
+          margin-top:30px;
         }
 
         @-webkit-keyframes enter {
