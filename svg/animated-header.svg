@@ -17,14 +17,13 @@
  body, html {
 	 overflow: hidden;
 }
- .container {
-	 width: 100%;
+ .container {	 
 	 height: 100vh;
 	 background: #232323;	
 }
  .container .box {
-	 width: 450px;
-	 height: 90px;
+	 width: 300px;
+	 height: 100px;
 	 position: relative;
 	 display: flex;
 	 justify-content: center;
@@ -35,6 +34,7 @@
 	 position: relative;
 	 display: flex;
 	 align-items: center;
+	 justify-content: center;	 
 	 height: 50px;
 }
  .container .box .title .block {
@@ -80,6 +80,7 @@
 	 position: relative;
 	 display: flex;
 	 align-items: center;
+	 justify-content: center;
 	 height: 30px;
 	 margin-top: -10px;
 }
