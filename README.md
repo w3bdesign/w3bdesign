@@ -15,7 +15,7 @@
   <img height="50" width="50" alt="react" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="50" width="50" alt="react" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/magento.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="50" width="50" alt="react" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gatsby.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" width="50" alt="react" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/next.js.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="50" width="50" alt="react" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nextdotjs.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="50" width="50" alt="react" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <hr />
