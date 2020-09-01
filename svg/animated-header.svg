@@ -19,15 +19,21 @@
         }
         .container {
           height: 100vh;
-          background: #232323;
+          background: #fff;
         }
         .container .box {
-          width: 300px;
-          height: 100px;
+          width: 290px;
+          height: 90px;
           position: relative;
           display: flex;
           justify-content: center;
           flex-direction: column;
+
+          -webkit-animation: fadeInBorder 10s
+            cubic-bezier(0.74, 0.06, 0.4, 0.92) forwards;
+          animation: fadeInBorder 10s cubic-bezier(0.74, 0.06, 0.4, 0.92)
+            forwards;
+          animation-delay: 0s;
         }
         .container .box .title {
           width: 100%;
@@ -40,14 +46,14 @@
         .container .box .title .block {
           width: 0%;
           height: inherit;
-          background: #ffb510;
+          background: #dbc45a;
           position: absolute;
           animation: mainBlock 2s cubic-bezier(0.74, 0.06, 0.4, 0.92) forwards;
           display: flex;
         }
         .container .box .title h1 {
           font-family: 'Lato';
-          color: #fff;
+          color: #000;
           font-size: 32px;
           -webkit-animation: mainFadeIn 2s forwards;
           -o-animation: mainFadeIn 2s forwards;
@@ -65,7 +71,7 @@
           -webkit-border-radius: 50%;
           -moz-border-radius: 50%;
           border-radius: 50%;
-          background: #ffb510;
+          background: #8282ff;
           -webkit-animation: load 0.6s cubic-bezier(0.74, 0.06, 0.4, 0.92)
             forwards;
           animation: popIn 0.8s cubic-bezier(0.74, 0.06, 0.4, 0.92) forwards;
@@ -88,7 +94,7 @@
         .container .box .role .block {
           width: 0%;
           height: inherit;
-          background: #e91e63;
+          background: #000080;
           position: absolute;
           animation: secBlock 2s cubic-bezier(0.74, 0.06, 0.4, 0.92) forwards;
           animation-delay: 2s;
@@ -98,13 +104,26 @@
           animation: secFadeIn 2s forwards;
           animation-delay: 3.2s;
           opacity: 0;
-          font-weight: 400;
+          font-weight: 1000;
           font-family: 'Lato';
-          color: #fff;
-          font-size: 12px;
+          color: #000;
+          font-size: 14px;
           text-transform: uppercase;
           letter-spacing: 5px;
           margin-left: 5px;
+        }
+        @keyframes fadeInBorder {
+          0% {
+            border: 1px solid rgba(0, 0, 0, 0.1);
+          }
+
+          50% {
+            border: 1px solid rgba(0, 0, 0, 0.5);
+          }
+
+          100% {
+            border: 1px solid rgba(0, 0, 0, 1);
+          }
         }
         @keyframes mainBlock {
           0% {
@@ -146,14 +165,14 @@
           0% {
             width: 0px;
             height: 0px;
-            background: #e9d856;
+            background: #8f7a1e;
             border: 0px solid #ddd;
             opacity: 0;
           }
           50% {
             width: 10px;
             height: 10px;
-            background: #e9d856;
+            background: #8f7a1e;
             opacity: 1;
             bottom: 45px;
           }
@@ -171,7 +190,7 @@
           100% {
             width: 7px;
             height: 7px;
-            background: #e9d856;
+            background: #8f7a1e;
             border: 0px solid #222;
             bottom: 13px;
           }
@@ -183,35 +202,6 @@
           100% {
             opacity: 0.5;
           }
-        }
-        footer {
-          width: 350px;
-          height: 80px;
-          background: #ffb510;
-          position: absolute;
-          right: 0;
-          bottom: -80px;
-          display: flex;
-          justify-content: center;
-          align-items: center;
-          animation: top 0.8s forwards;
-          animation-delay: 4s;
-        }
-        footer span {
-          display: flex;
-          align-items: center;
-          justify-content: center;
-          font-size: 12px;
-          color: #232323;
-          font-family: 'Poppins';
-        }
-        footer span i {
-          margin-right: 25px;
-          font-size: 22px;
-          color: #232323;
-          animation: icon 2s forwards;
-          animation-delay: 4s;
-          opacity: 0;
         }
         @keyframes top {
           0% {
