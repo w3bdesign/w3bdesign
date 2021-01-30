@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://github.com/w3bdesign/w3bdesign/blob/master/svg/animated-header.svg" alt="Header image" /></h1>
 
-<h3 align="center">My name is Daniel and I have been working with webdesign and development since 2000. <br/><br />I have experience with a wide range of languages and tools, like Javascript, PHP, React, Vue, Wordpress and many more. </h3>
+<h3 align="center">My name is Daniel and I have been working with webdesign and development since 2000. <br/><br />I have experience with a wide range of languages and tools, like Javascript, Typescript, PHP, React, Vue, Gatsby, Nextjs, Laravel, WordPress and many more. </h3>
 
 <h2 align="center">🛠️ Languages</h2>
 <p align="center">
@@ -14,7 +14,7 @@
   <img height="50" width="50" alt="react" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/vue-dot-js.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="50" width="50" alt="mysql" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/mysql.svg" />&nbsp;&nbsp;&nbsp;&nbsp;  
   <img height="50" width="50" alt="wordpress" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/wordpress.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" width="50" alt="magento" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/magento.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="50" width="50" alt="magento" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/laravel.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="50" width="50" alt="gatsby" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/gatsby.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="50" width="50" alt="nextjs" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/next-dot-js.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="50" width="50" alt="docker" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/docker.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
