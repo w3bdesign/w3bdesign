@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://github.com/w3bdesign/w3bdesign/blob/master/svg/animated-header.svg" alt="Header image" /></h1>
 
-<h3 align="center">My name is Daniel and I have been working with webdesign and development since 2000. <br/><br />I have experience with a wide range of languages and tools, like: 
+<h3 align="center">My name is Daniel Fjeldstad and I have been working with webdesign and development since 2000. <br/><br />I have experience with a wide range of languages and tools, like: 
 <br /> <br />
   Javascript, Typescript, PHP, React, Vue, Gatsby, Nextjs, Laravel, WordPress and many more. </h3>
 
