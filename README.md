@@ -27,9 +27,9 @@
 <h2 align="center">📈 Github Stats</h2>
 <p align="center">
 <a href="https://github.com/w3bdesign">
-  <img align="center" src="https://github-readme-stats-six-rho.vercel.app/api?username=w3bdesign&show_icons=true&hide_border=false&count_private=true" />
+  <img height="200" align="center" src="https://github-readme-stats-six-rho.vercel.app/api?username=w3bdesign&show_icons=true&hide_border=false&count_private=true" />
 </a>
 <a href="https://github.com/w3bdesign">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w3bdesign&hide=html,css" alt="Patricio Ferraggi's GitHub Stats" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w3bdesign&hide=html,css" alt="Patricio Ferraggi's GitHub Stats" />
 </a>
   </p>
