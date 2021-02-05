@@ -30,8 +30,8 @@
 
 <br />
 <a href="https://github.com/lucaspulliese/lucaspulliese">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspulliese&hide=html" />
+  <img align="center" src="https://github-readme-stats-six-rho.vercel.app/api?username=w3bdesign&show_icons=true&hide_border=false&count_private=true" />
 </a>
 <a href="https://github.com/lucaspulliese/lucaspulliese">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucaspulliese&show_icons=true&line_height=27&count_private=true" alt="Patricio Ferraggi's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w3bdesign&hide=html,css" alt="Patricio Ferraggi's GitHub Stats" />
 </a>
