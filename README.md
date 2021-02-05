@@ -25,7 +25,7 @@
 </p>
 <hr />
 <h2 align="center">📈 Github Stats</h2>
-<img align="center" alt="w3bdesign's Github Stats" src="https://github-readme-stats-six-rho.vercel.app/api?username=w3bdesign&show_icons=true&hide_border=false" /> 
+<img align="center" alt="w3bdesign's Github Stats" src="https://github-readme-stats-six-rho.vercel.app/api?username=w3bdesign&show_icons=true&hide_border=false&count_private=true" /> 
 <img align="center" alt="w3bdesign's Github Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w3bdesign&hide=html,css" />
 
 <br />
