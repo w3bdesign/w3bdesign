@@ -27,3 +27,11 @@
 <h2 align="center">📈 Github Stats</h2>
 <img align="center" alt="w3bdesign's Github Stats" src="https://github-readme-stats-six-rho.vercel.app/api?username=w3bdesign&show_icons=true&hide_border=false" /> 
 <img align="center" alt="w3bdesign's Github Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w3bdesign&hide=html,css" />
+
+<br />
+<a href="https://github.com/lucaspulliese/lucaspulliese">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspulliese&hide=html" />
+</a>
+<a href="https://github.com/lucaspulliese/lucaspulliese">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucaspulliese&show_icons=true&line_height=27&count_private=true" alt="Patricio Ferraggi's GitHub Stats" />
+</a>
