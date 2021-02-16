@@ -2,7 +2,7 @@
 
 <h3 align="left">My name is Daniel Fjeldstad and I have been working with webdesign and development since 2000. <br/><br />I have experience with a wide range of languages and tools, like: 
 <br /> <br />
-  Javascript, Typescript, PHP, React, Vue, Gatsby, Nextjs, Laravel, WordPress and many more. </h3>
+  Javascript, Typescript, PHP, React, Vue 2 and 3, Gatsby, Nextjs, Laravel, WordPress and many more. </h3>
 
 <h2 align="center">🛠️ Languages</h2>
 <p align="center">
