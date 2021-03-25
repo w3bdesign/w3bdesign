@@ -1,11 +1,11 @@
 <h1 align="center"><img src="https://github.com/w3bdesign/w3bdesign/blob/master/svg/animated-header.svg" alt="Header image" /></h1>
 
-<h3 align="left">My name is Daniel Fjeldstad and I have been working with webdesign and development since 2000. <br/><br />I have experience with a wide range of languages and tools, like: 
+<span align="left">My name is Daniel Fjeldstad and I have been working with webdesign and development since 2000. <br/><br />I have experience with a wide range of languages and tools, like: 
 <br /> <br />
   Javascript, Typescript, PHP, React, Vue 2 and 3, Gatsby, Nextjs, Nuxtjs, Laravel, WordPress, WooCommerce and many more.
   <br /> <br />
   I particularly value code quality, continuous improvement and following best coding practices as much as possible. 
-</h3>
+</span>
 
 <h2 align="center">🛠️ Languages</h2>
 <p align="center">
