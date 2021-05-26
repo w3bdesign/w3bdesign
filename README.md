@@ -30,7 +30,7 @@
 <h2 align="center">📈 Github Stats</h2>
 <p align="center">
 <a href="https://github.com/w3bdesign">
-  <img height="200" align="center" src="https://github-readme-stats-dfweb.vercel.app/api?username=w3bdesign&show_icons=true&hide_border=false&count_private=true" />
+  <img height="200" align="center" src="https://github-stats.dfweb.no/api?username=w3bdesign&show_icons=true&hide_border=false&count_private=true" />
 </a>
 <a href="https://github.com/w3bdesign">
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w3bdesign&hide=html,css" alt="Daniel's GitHub Stats" />
