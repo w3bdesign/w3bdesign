@@ -36,6 +36,6 @@
   <img height="200" align="center" src="https://github-readme-stats-wine-two.vercel.app/api?username=w3bdesign&show_icons=true&hide_border=false&count_private=true" />
 </a>
 <a href="https://github.com/w3bdesign">
-  <img height="200" align="center" src="https://github-readme-stats-wine-two.vercel.app/api/top-langs/?username=w3bdesign&hide=html,css,hack,perl,c,smarty" alt="Daniel's GitHub Stats" />
+  <img height="200" align="center" src="https://github-readme-stats-wine-two.vercel.app/api/top-langs/?username=w3bdesign&hide=html,css,hack,perl,c,smarty&count_private=true" alt="Daniel's GitHub Stats" />
 </a>
  </p>
