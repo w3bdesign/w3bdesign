@@ -33,3 +33,12 @@
   <img height="300" align="center" src="https://raw.githubusercontent.com/w3bdesign/w3bdesign/output/github-contribution-grid-snake.svg" />
 </a>
  </p>
+ <hr />
+ <p align="center">
+<a href="https://github.com/w3bdesign">
+  <img height="200" align="center" src="https://github-readme-stats-wine-two.vercel.app/api?username=w3bdesign&show_icons=true&hide_border=false&count_private=true" />
+</a>
+<a href="https://github.com/w3bdesign">
+  <img height="200" align="center" src="https://github-readme-stats-wine-two.vercel.app/api/top-langs/?username=w3bdesign&hide=html,css,hack,perl,c,smarty&langs_count=4" alt="Daniel's GitHub Stats" />
+</a>
+ </p>
