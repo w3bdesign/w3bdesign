@@ -38,4 +38,6 @@
 <a href="https://github.com/w3bdesign">
   <img height="200" align="center" src="https://github-readme-stats-wine-two.vercel.app/api/top-langs/?username=w3bdesign&hide=html,css,hack,perl,c,smarty&langs_count=4" alt="Daniel's GitHub Stats" />
 </a>
+ ![commits.top ranking](http://biego.tech/commits?user=w3bdesign&country=norway&bg_color=fff&text_color=000&border_color=000)
+
  </p>
