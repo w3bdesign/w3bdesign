@@ -31,6 +31,7 @@
 
 [![w3bdesign's Github activity graph](https://activity-graph.herokuapp.com/graph?username=w3bdesign&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true)](https://github.com/w3bdesign)
 
+<h2 align="center">📈 Github Contribution Animation</h2>
 <p align="center">
 <a href="https://github.com/w3bdesign">
   <img height="300" align="center" src="https://raw.githubusercontent.com/w3bdesign/w3bdesign/output/github-contribution-grid-snake.svg" />
