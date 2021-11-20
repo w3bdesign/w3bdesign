@@ -34,6 +34,7 @@
 </a>
  </p>
  <hr />
+ <h2 align="center">📈 Github Stats</h2>
  <p align="center">
 <a href="https://github.com/w3bdesign">
   <img height="200" align="center" src="https://github-readme-stats-wine-two.vercel.app/api?username=w3bdesign&show_icons=true&hide_border=false&count_private=true" />
