@@ -29,6 +29,8 @@
 <hr />
 <h2 align="center">📈 Github Stats</h2>
 
+![commits.top ranking](http://biego.tech/commits?user=w3bdesign&country=norway&bg_color=fff&text_color=000&border_color=000)
+
 [![w3bdesign's Github activity graph](https://activity-graph.herokuapp.com/graph?username=w3bdesign&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true)](https://github.com/w3bdesign)
 
 <p align="center">
@@ -38,6 +40,4 @@
 <a href="https://github.com/w3bdesign">
   <img height="200" align="center" src="https://github-readme-stats-wine-two.vercel.app/api/top-langs/?username=w3bdesign&hide=html,css,hack,perl,c,smarty&langs_count=4" alt="Daniel's GitHub Stats" />
 </a>
- ![commits.top ranking](http://biego.tech/commits?user=w3bdesign&country=norway&bg_color=fff&text_color=000&border_color=000)
-
  </p>
