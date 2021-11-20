@@ -30,7 +30,7 @@
 <h2 align="center">📈 Github Contribution Animation</h2>
 <p align="center">
 <a href="https://github.com/w3bdesign">
-  <img height="200" align="center" src="https://raw.githubusercontent.com/w3bdesign/w3bdesign/output/github-contribution-grid-snake.svg" />
+  <img height="100" align="center" src="https://raw.githubusercontent.com/w3bdesign/w3bdesign/output/github-contribution-grid-snake.svg" />
 </a>
  </p>
  <hr />
