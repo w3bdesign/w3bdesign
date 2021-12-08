@@ -35,7 +35,7 @@
  </p>
  <hr />
  <h2 align="center">📈 Github Stats</h2>
-<p align="center">
-  ![](https://github.com/w3bdesign/github-stats/blob/master/generated/overview.svg)
-  ![](https://github.com/w3bdesign/github-stats/blob/master/generated/languages.svg)
- </p>
+ 
+ ![](https://github.com/w3bdesign/github-stats/blob/master/generated/overview.svg)
+ ![](https://github.com/w3bdesign/github-stats/blob/master/generated/languages.svg)
+
