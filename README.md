@@ -27,7 +27,7 @@
   <img height="50" width="50" alt="adobe" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/adobe.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <hr />
-<h2 align="center">📈 Github Contribution Animation</h2>
+<h2 align="center">📈 Github Contributions</h2>
 <p align="center">
 <a href="https://github.com/w3bdesign">
   <img height="100" align="center" src="https://raw.githubusercontent.com/w3bdesign/w3bdesign/output/github-contribution-grid-snake.svg" />
