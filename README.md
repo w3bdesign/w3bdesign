@@ -36,7 +36,6 @@
  <hr />
  <h2 align="center">📈 Github Stats</h2>
 <p align="center">
-<a href="https://github.com/w3bdesign">
-  <img align="center" src="https://github-profile-stats.dfweb.no/api/top-langs/?username=w3bdesign&hide=html,css,hack,perl,c,smarty&langs_count=4" alt="Daniel's GitHub Stats" />
-</a>
+  ![](https://github.com/w3bdesign/github-stats/blob/master/generated/overview.svg)
+  ![](https://github.com/w3bdesign/github-stats/blob/master/generated/languages.svg)
  </p>
