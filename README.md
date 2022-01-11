@@ -39,6 +39,5 @@
  <h2 align="center">📈 Github Stats</h2>
  
  ![](https://github.com/w3bdesign/github-stats/blob/master/generated/overview.svg)
- <br />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w3bdesign" alt="Top languages used" />
+ ![](https://github.com/w3bdesign/github-stats/blob/master/generated/languages.svg)
 
