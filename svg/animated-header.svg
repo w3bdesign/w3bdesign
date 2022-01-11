@@ -17,10 +17,7 @@
         html {
           overflow: hidden;
         }
-        .container {
-          height: 100vh;
-          background: #fff;
-        }
+  
         .container .box {
           width: 290px;
           height: 90px;
