@@ -9,7 +9,7 @@
 
 <h2 align="center">🛠️ Languages</h2>
 <p align="center">
-  <h3>Javascript</h3> <h3>Typescript</h3> <h3>PHP</h3>
+  <h3 align="center">Javascript</h3> <h3 align="center">Typescript</h3> <h3 align="center">PHP</h3>
 </p>
 <h2 align="center">🛠️ Tools</h2>
 <p align="center">
