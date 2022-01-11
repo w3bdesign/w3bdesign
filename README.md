@@ -9,11 +9,11 @@
 
 <h2 align="center">🛠️ Languages</h2>
 <p align="center">
-  | <b>Javascript</b> | <b>Typescript</b> | <b>PHP</b> |
+  | <b>Javascript | Typescript | <b>PHP</b> |
 </p>
 <h2 align="center">🛠️ Tools</h2>
 <p align="center">
-<b>React</b> <b>Vue.js</b> <b>mySQL</b> <b>WordPress</b> <b>Laravel</b> <b>Gatsby</b> <b>Next.js</b> <b>Docker</b> <b>GraphQL</b> <b>Adobe</b> <b>Storybook</b>  
+| <b> React | Vue.js | mySQL | WordPress | Laravel | Gatsby | Next.js  | Docker  | GraphQL | Adobe | Storybook</b> | 
 </p>
 
 <hr />
