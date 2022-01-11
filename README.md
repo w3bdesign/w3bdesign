@@ -13,7 +13,7 @@
 </p>
 <h2 align="center">🛠️ Tools</h2>
 <p align="center">
- <h3>React</h3> <h3>Vue.js</h3> <h3>mySQL</h3> <h3>WordPress</h3> <h3>Laravel</h3> <h3>Gatsby</h3> <h3>Next.js</h3> <h3>Docker</h3> <h3>GraphQL</h3> <h3>Adobe</h3> <h3>Storybook</h3>  
+<b>React</b> <b>Vue.js</b> <b>mySQL</b> <b>WordPress</b> <b>Laravel</b> <b>Gatsby</b> <b>Next.js</b> <b>Docker</b> <b>GraphQL</b> <b>Adobe</b> <b>Storybook</b>  
 </p>
 
 <hr />
