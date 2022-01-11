@@ -1,7 +1,7 @@
 <svg
   fill="none"
-  viewBox="0 0 300 100"
-  width="300"
+  viewBox="0 0 290 90"
+  width="290"
   height="90"
   xmlns="http://www.w3.org/2000/svg"
 >
@@ -17,8 +17,7 @@
         html {
           overflow: hidden;
         }
-        .container {
-          height: 100vh;
+        .container {         
           background: #fff;
         }
         .container .box {
