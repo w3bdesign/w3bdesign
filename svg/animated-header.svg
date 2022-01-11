@@ -24,8 +24,7 @@
           position: relative;
           display: flex;
           justify-content: center;
-          flex-direction: column;
-          border-radius: 5px;
+          flex-direction: column;          
           -webkit-animation: fadeInBorder 10s
             cubic-bezier(0.74, 0.06, 0.4, 0.92) forwards;
           animation: fadeInBorder 10s cubic-bezier(0.74, 0.06, 0.4, 0.92)
