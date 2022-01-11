@@ -9,23 +9,23 @@
 
 <h2 align="center">🛠️ Languages</h2>
 <p align="center">
-  Javascript
-  Typescript
-  PHP 
+  Javascript &nbsp;
+  Typescript &nbsp;
+  PHP &nbsp;
 </p>
 <h2 align="center">🛠️ Tools</h2>
 <p align="center">
- React
- Vue.js
- mySQL
- WordPress
- Laravel
- Gatsby
- Next.js
- Docker
- GraphQL
- Adobe
- Storybook  
+ React &nbsp;
+ Vue.js &nbsp;
+ mySQL &nbsp;
+ WordPress &nbsp;
+ Laravel &nbsp;
+ Gatsby &nbsp;
+ Next.js &nbsp;
+ Docker &nbsp;
+ GraphQL &nbsp;
+ Adobe &nbsp;
+ Storybook   &nbsp;
 </p>
 
 <hr />
