@@ -9,9 +9,9 @@
 <p align="center">
    <b>Javascript | Typescript | <b>PHP</b> 
 </p>
-<h2 align="center">🛠️ Tools</h2>
+<h2 align="center">🛠️ Tools / Frameworks</h2>
 <p align="center">
-<b> React | Vue.js | mySQL | WordPress | Laravel | Gatsby | Next.js  | Docker  | GraphQL | Adobe | Storybook</b> 
+<b> React | Vue.js | mySQL | WordPress | Laravel | Gatsby | Next.js  | Docker  | GraphQL | Adobe | Storybook | Bootstrap</b> 
 </p>
 
 <hr />
