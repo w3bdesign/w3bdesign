@@ -7,17 +7,16 @@
 
 <h2 align="center">🛠️ Languages</h2>
 <p align="center">
- > 
- > Javascript | Typescript | PHP
-</p>
+ <b>
+  Javascript | Typescript | PHP
+</b>
 <h2 align="center">🛠️ Tools / Frameworks</h2>
 <p align="center">
->
-> React | Vue.js | mySQL | WordPress | Laravel | Gatsby | Next.js  | Docker  | GraphQL | Adobe | Storybook | Bootstrap
+ <b>
+ React | Vue.js | mySQL | WordPress | Laravel | Gatsby | Next.js  | Docker  | GraphQL | Adobe | Storybook | Bootstrap
+  </b>
 </p>
-
 <hr />
-
 <h2 align="center">📈 Github Contributions</h2>
 <p align="center">
 <a href="https://github.com/w3bdesign">
