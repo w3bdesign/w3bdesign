@@ -7,10 +7,12 @@
 
 <h2 align="center">🛠️ Languages</h2>
 <p align="center">
- > Javascript | Typescript | <b>PHP
+ > 
+ > Javascript | Typescript | PHP
 </p>
 <h2 align="center">🛠️ Tools / Frameworks</h2>
 <p align="center">
+>
 > React | Vue.js | mySQL | WordPress | Laravel | Gatsby | Next.js  | Docker  | GraphQL | Adobe | Storybook | Bootstrap
 </p>
 
