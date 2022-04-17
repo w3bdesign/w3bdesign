@@ -13,7 +13,7 @@
 <h2 align="center">🛠️ Tools / Frameworks</h2>
 <p align="center">
  <b>
- React | Vue.js | mySQL | WordPress | Laravel | Gatsby | Next.js  | Docker  | GraphQL | Adobe | Storybook | Bootstrap
+ React | Vue | mySQL | WordPress | Laravel | Gatsby | Next.js  | Docker  | GraphQL | Adobe | Storybook | Bootstrap
   </b>
 </p>
 <hr />
