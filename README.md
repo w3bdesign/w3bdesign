@@ -26,8 +26,8 @@
  <hr />
  <h2 align="center">📈 Github Stats</h2>
  
- <span align="center">
- ![](https://github.com/w3bdesign/github-stats/blob/master/generated/overview.svg)
- ![](https://github.com/w3bdesign/github-stats/blob/master/generated/languages.svg)
-  </span>
+ <p align="center">
+<img src="https://github.com/w3bdesign/github-stats/blob/master/generated/overview.svg" alt="Overview" />
+ <img src="https://github.com/w3bdesign/github-stats/blob/master/generated/languages.svg" alt="Languages" />
+ </p>
 
