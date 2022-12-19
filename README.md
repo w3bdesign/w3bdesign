@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://github.com/w3bdesign/w3bdesign/blob/master/svg/animated-header.svg" alt="Header image" /></h1>
 
-<span align="left">My name is Daniel Fjeldstad and I have been working with webdesign and development since 2000. <br/>
+<span align="center">My name is Daniel Fjeldstad and I have been working with webdesign and development since 2000. <br/>
   <br />
   I value code quality, continuous improvement and following best coding practices as often as possible. 
 </span>
