@@ -28,7 +28,7 @@
  <h2 align="center">📈 Github Stats</h2>
  
  <p align="center">
-<img src="https://github.com/w3bdesign/github-stats/blob/master/generated/overview.svg" alt="Overview" />
+ <img src="https://github.com/w3bdesign/github-stats/blob/master/generated/overview.svg" alt="Overview" />
  <img src="https://github.com/w3bdesign/github-stats/blob/master/generated/languages.svg" alt="Languages" />
  </p>
 
