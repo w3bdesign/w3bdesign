@@ -29,6 +29,6 @@
  
  <p align="center">
  <img src="https://github.com/w3bdesign/github-stats/blob/master/generated/overview.svg" alt="Overview" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w3bdesign&card_width=360" height="200" alt="Languages" />
+ <img src="https://github.com/w3bdesign/github-stats/blob/master/generated/languages.svg" alt="Languages" />
  </p>
 
