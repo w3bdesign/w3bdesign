@@ -9,12 +9,18 @@
 <h2 align="center">🛠️ Languages</h2>
 <p align="center">
  <b>
-  Javascript | Typescript | PHP
+  Javascript | Typescript | PHP | SQL
 </b>
-<h2 align="center">🛠️ Tools / Frameworks</h2>
+<h2 align="center">🛠️ Frameworks</h2>
 <p align="center">
  <b>
- React | Vue | mySQL | WordPress | Laravel | Gatsby | Next.js  | Docker  | GraphQL | Adobe | Storybook | Bootstrap
+ React | Vue | Astro | WordPress | Laravel | Gatsby | Next.js
+  </b>
+</p>
+<h2 align="center">🛠️ Tools</h2>
+<p align="center">
+ <b>
+ Docker  | GraphQL | Adobe | Storybook | Bootstrap | CircleCI | Jest | Cypress | React Testing Library
   </b>
 </p>
 <hr />
