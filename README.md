@@ -20,7 +20,7 @@
 <h2 align="center">🛠️ Tools</h2>
 <p align="center">
  <b>
- Docker  | GraphQL | Adobe | Storybook | Bootstrap | CircleCI | Jest | Cypress | React Testing Library
+ Docker  | GraphQL | Adobe | Storybook | Bootstrap | Tailwind CSS | CircleCI | Jest | Cypress | React Testing Library
   </b>
 </p>
 <hr />
