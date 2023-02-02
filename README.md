@@ -24,10 +24,19 @@
   </b>
 </p>
 <hr />
+
+<h2 align="center">📊 Github Trophies</h2>
+<p align="center">
+<a href="https://github.com/w3bdesign">
+  <img height="100" align="center" alt="Github trophies" src="https://github-profile-trophy.vercel.app/?username=w3bdesign" />
+</a>
+ </p>
+
+
 <h2 align="center">📈 Github Contributions</h2>
 <p align="center">
 <a href="https://github.com/w3bdesign">
-  <img height="100" align="center" src="https://raw.githubusercontent.com/w3bdesign/w3bdesign/output/github-contribution-snake-latest.svg" />
+  <img height="100" align="center" alt="Github snake" src="https://raw.githubusercontent.com/w3bdesign/w3bdesign/output/github-contribution-snake-latest.svg" />
 </a>
  </p>
  <hr />
