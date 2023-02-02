@@ -24,15 +24,12 @@
   </b>
 </p>
 <hr />
-
 <h2 align="center">📊 Github Trophies</h2>
 <p align="center">
 <a href="https://github.com/w3bdesign">
-  <img height="100" align="center" alt="Github trophies" src="https://github-profile-trophy.vercel.app/?username=w3bdesign" />
+  <img align="center" alt="Github trophies" src="https://github-profile-trophy.vercel.app/?username=w3bdesign" />
 </a>
  </p>
-
-
 <h2 align="center">📈 Github Contributions</h2>
 <p align="center">
 <a href="https://github.com/w3bdesign">
