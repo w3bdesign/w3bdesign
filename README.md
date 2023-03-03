@@ -1,9 +1,5 @@
 <h1 align="center"><img src="https://github.com/w3bdesign/w3bdesign/blob/master/svg/animated-header.svg" alt="Header image" /></h1>
 
-`![red lightsaber](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTYgMTYiIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgZmlsbD0iIzMzMyI+PHBhdGggZD0iTTEyLjUsMTEuMmgxLjNIMTJ6Ii8+PC9zdmc+)`
-
-
-
 <span align="center">My name is Daniel Fjeldstad and I have been working with webdesign and development since 2000. 
   <br/>
   <br />
