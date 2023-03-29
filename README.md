@@ -41,7 +41,6 @@
 <p align="center">
 <a href="https://user-badge.committers.top/norway/w3bdesign"><img src="https://user-badge.committers.top/norway/w3bdesign.svg" alt=""></a>
 <a href="https://user-badge.committers.top/norway_public/w3bdesign"><img src="https://user-badge.committers.top/norway_public/w3bdesign.svg" alt=""></a>
-<a href="https://user-badge.committers.top/norway_private/w3bdesign"><img src="https://user-badge.committers.top/norway_private/w3bdesign.svg" alt=""></a>
 </p>
 <hr/>
  <h2 align="center">📈 Github Stats</h2>
