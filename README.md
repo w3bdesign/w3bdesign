@@ -1,9 +1,10 @@
 <h1 align="center"><img src="https://github.com/w3bdesign/w3bdesign/blob/master/svg/animated-header.svg" alt="Header image" /></h1>
 
-<span align="center">My name is Daniel Fjeldstad and I have been working with webdesign and development since 2000. 
-  <br/>
-  <br />
-  I value code quality, continuous improvement and following best coding practices as often as possible. 
+<span align="center">Hi there, I'm Daniel Fjeldstad, and I've been passionate about web design and development since 2000. Over the years, I've had the privilege of working on a variety of exciting projects, and I've learned the importance of code quality, continuous improvement, and following best coding practices as often as possible.
+<br/> <br/> 
+I believe that great code is not just about functionality, but also about readability, maintainability, and scalability. That's why I strive to write clean, well-structured code that's easy to understand and modify. I'm also a strong advocate for testing, automation, and other development practices that help ensure reliable and efficient code.
+<br/> <br/> 
+In my free time, I love to explore new technologies and techniques, experiment with design and development tools, and contribute to open-source projects. You can check out some of my recent work on my Github profile
 </span>
 <hr />
 <h2 align="center">🛠️ Languages</h2>
