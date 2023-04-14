@@ -21,7 +21,7 @@ In my free time, I love to explore new technologies and techniques, experiment w
 <h2 align="center">🛠️ Tools</h2>
 <p align="center">
  <b>
- Docker  | GraphQL | Monorepo | Storybook | Bootstrap | Tailwind | CircleCI | Jest | Cypress | React Testing Library
+ Prisma  |  tRPC  |  Docker  | GraphQL | Monorepo | Storybook | Bootstrap | Tailwind | CircleCI | Jest | Cypress | React Testing Library
   </b>
 </p>
 <hr />
