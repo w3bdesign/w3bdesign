@@ -10,7 +10,7 @@ In my free time, I love to explore new technologies and techniques, experiment w
 <h2 align="center">🛠️ Languages</h2>
 <p align="center">
  <b>
-  Javascript | Typescript | PHP | SQL
+  Javascript | Typescript | PHP | mySQL
 </b>
 <h2 align="center">🛠️ Frameworks</h2>
 <p align="center">
