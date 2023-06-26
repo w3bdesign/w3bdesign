@@ -38,7 +38,7 @@ In my free time, I love to explore new technologies and techniques, experiment w
 </a>
  </p>
  <hr />
-<h3 align="center">My rank in Norway on Github</h3>
+<h2 align="center">My activity rank in Norway on Github</h2>
 <p align="center">
 <a href="https://user-badge.committers.top/norway/w3bdesign"><img src="https://user-badge.committers.top/norway/w3bdesign.svg" alt=""></a>
 <a href="https://user-badge.committers.top/norway_public/w3bdesign"><img src="https://user-badge.committers.top/norway_public/w3bdesign.svg" alt=""></a>
