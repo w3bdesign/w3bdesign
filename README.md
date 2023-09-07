@@ -14,7 +14,7 @@ You can check out some of my recent work on my Github profile.
 <h2 align="center">🛠️ Languages</h2>
 <p align="center">
  <b>
-  Javascript | Typescript | PHP
+  Javascript | Typescript | PHP | Python
 </b>
 <h2 align="center">🛠️ Frameworks</h2>
 <p align="center">
