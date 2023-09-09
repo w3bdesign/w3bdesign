@@ -10,7 +10,7 @@ Right now my primary focus is on experimenting with GPT-4 and finding out how to
 
 You can check out some of my recent work on my Github profile.
 </span>
-<br>
+<br/> <br/> 
 <h2 align="center">🛠️ Languages</h2>
 <p align="center">
  <b>
