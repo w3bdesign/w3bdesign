@@ -32,7 +32,7 @@ You can check out some of my recent work on my Github profile.
 <h2 align="center"> 🏆 Github Trophies</h2>
 <p align="center">
 <a href="https://github.com/w3bdesign">
-  <img align="center" alt="Github trophies" src="https://github-profile-trophy.vercel.app/?username=w3bdesign&rank=SECRET,SSS,SS,S&margin-w=10&margin-h=5&row=2&column=3" />
+  <img align="center" alt="Github trophies" src="https://github-profile-trophy-kappa.vercel.app/?username=w3bdesign&rank=SECRET,SSS,SS,S&margin-w=10&margin-h=5&row=2&column=3" />
 </a>
  </p>
 <h2 align="center">📈 Github Contributions</h2>
