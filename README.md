@@ -38,11 +38,11 @@ You can check out some of my recent work on my Github profile.
 <h2 align="center">📈 Github Contributions</h2>
 <p align="center">
 <a href="https://github.com/w3bdesign">
-  <img height="100" align="center" alt="Github snake" src="https://raw.githubusercontent.com/w3bdesign/w3bdesign/output/github-contribution-snake-latest.svg" />
+  <img height="100" align="center" alt="Github snake" src="https://raw.githubusercontent.com/w3bdesign/w3bdesign/output/github-contribution-grid-snake.svg" />
 </a>
  </p>
  <hr />
-<h2 align="center">My activity rank in Norway on Github</h2>
+<h2 align="center"> 🏆 My activity rank in Norway on Github</h2>
 <p align="center">
 <a href="https://user-badge.committers.top/norway/w3bdesign"><img src="https://user-badge.committers.top/norway/w3bdesign.svg" alt=""></a>
 <a href="https://user-badge.committers.top/norway_public/w3bdesign"><img src="https://user-badge.committers.top/norway_public/w3bdesign.svg" alt=""></a>
