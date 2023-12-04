@@ -6,7 +6,7 @@ I believe that great code is not just about functionality, but also about readab
 <br/> <br/> 
 In my free time, I love to explore new technologies and techniques, experiment with design and development tools, and contribute to open-source projects. 
 
-Right now my primary focus is on experimenting with GPT-4 and finding out how to utilize it for web development, coding assistance, online research and implementing it with AI-based online applications, such as https://github.com/w3bdesign/spotify-import
+Right now my primary focus is on experimenting with GPT-4, GPT-4-Turbo as well as other new AI models and finding out how to best utilize it for web development, coding assistance, online research and implementing it with AI-based online applications, such as https://github.com/w3bdesign/spotify-import
 
 You can check out some of my recent work on my Github profile.
 </span>
