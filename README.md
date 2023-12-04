@@ -4,8 +4,10 @@
 <br/> <br/> 
 I believe that great code is not just about functionality, but also about readability, maintainability, and scalability. That's why I strive to write clean, well-structured code that's easy to understand and modify. I'm also a strong advocate for testing, automation, and other development practices that help ensure reliable and efficient code.
 <br/> <br/> 
-In my free time, I love to explore new technologies and techniques, experiment with design and development tools, and contribute to open-source projects. 
-
+In my free time, I love to explore new technologies and techniques, experiment with design and development tools, and contribute to open-source projects.
+<br/> <br/> 
+According to <a href="https://committers.top/norway_private"> I am currently the most active developer in Norway on Github!
+<br/> <br/> 
 Right now my primary focus is on experimenting with GPT-4, GPT-4-Turbo as well as other new AI models and finding out how to best utilize it for web development, coding assistance, online research and implementing it with AI-based online applications, such as https://github.com/w3bdesign/spotify-import
 
 You can check out some of my recent work on my Github profile.
