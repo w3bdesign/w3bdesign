@@ -21,7 +21,7 @@ You can check out some of my recent work on my Github profile.
 <h2 align="center">🛠️ Frameworks</h2>
 <p align="center">
  <b>
- React | Vue 2 and 3 | Astro | Svelte | WordPress | Laravel | Gatsby | Next.js
+ React | Vue 2/3 | Astro | Svelte | WordPress | Laravel | Gatsby | Next.js
   </b>
 </p>
 <h2 align="center">🛠️ Tools</h2>
