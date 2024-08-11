@@ -6,9 +6,9 @@ I believe that great code is not just about functionality, but also about readab
 <br/> <br/> 
 In my free time, I love to explore new technologies and techniques, experiment with design and development tools, and contribute to open-source projects.
 <br/> <br/> 
-According to <a href="https://committers.top/norway">https://committers.top</a> I am currently one of the most active developers in Norway on Github!
+According to <a href="https://committers.top/norway">https://committers.top</a> I am currently the most active developer in Norway on Github!
 <br/> <br/> 
-Right now my primary focus is on experimenting with GPT-4 Omni and Claude 3.5 Sonnet as well as other new AI models and finding out how to best utilize it for web development, coding assistance, online research and implementing it with AI-based online applications, such as https://github.com/w3bdesign/spotify-import
+Right now my primary focus is on experimenting with GPT-4o and Claude 3.5 Sonnet as well as other new AI models and finding out how to best utilize it for web development, coding assistance, online research and implementing it with AI-based online applications, such as https://github.com/w3bdesign/spotify-import
 
 You can check out some of my recent work on my Github profile.
 </span>
