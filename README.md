@@ -46,7 +46,7 @@ You can check out some of my recent work on my Github profile.
  <hr />
 <h2 align="center"> 🏆 My activity rank in Norway on Github</h2>
 <p align="center">
-<a href="https://committers.top/norway"><img src="https://user-badge.committers.top/norway_private/w3bdesign.svg" alt="Github commit activity rank"></a>
+<a href="https://committers.top/norway"><img src="https://user-badge.committers.top/norway_private/w3bdesign.svg?" alt="Github commit activity rank"></a>
 </p>
 <hr/>
  <h2 align="center">📈 Github Stats</h2> 
