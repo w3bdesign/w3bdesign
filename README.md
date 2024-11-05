@@ -22,13 +22,13 @@ You can check out some of my recent work on my Github profile.
 <h2 align="center">🛠️ Frameworks</h2>
 <p align="center">
  <b>
- React | Vue 2/3 | Astro | Svelte | WordPress | Laravel | Gatsby | Next.js
+ React | Vue 2/3 | Astro | Svelte(kit) | WordPress | Laravel | Nuxt | Next.js
   </b>
 </p>
 <h2 align="center">🛠️ Tools</h2>
 <p align="center">
  <b>
- Prisma  |  tRPC  |  Docker  | GraphQL | Monorepo | Storybook | Bootstrap | Tailwind | CircleCI | Jest | Cypress | mySQL
+ Prisma  |  tRPC  |  Docker  | GraphQL | Monorepo | Storybook | Bootstrap | Tailwind | CircleCI | Jest | Cypress | SQL
   </b>
 </p>
 <hr />
