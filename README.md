@@ -1,3 +1,4 @@
+
 <h1 align="center"><img src="https://github.com/w3bdesign/w3bdesign/blob/master/svg/animated-header.svg" alt="Header image" /></h1> 
  
 <span align="center">Hi there, I'm Daniel Fjeldstad, and I've been passionate about web design and development since 2000. Over the years, I've had the privilege of working on a variety of exciting projects, and I've learned the importance of code quality, continuous improvement, and following best coding practices as often as possible.
@@ -9,30 +10,27 @@ In my free time, I love to explore new technologies and techniques, experiment w
 According to <a href="https://committers.top/norway_private">https://committers.top/norway_private</a> I am currently the most active developer in Norway on Github!
 <br/> <br/> 
 Right now my primary focus is on experimenting with GPT-4o and Claude 3.5 Sonnet as well as other new AI models and finding out how to best utilize it for web development, coding assistance, vector databases, embeddings, online research, implementing it with AI-based online applications, such as https://github.com/w3bdesign/spotify-import and a lot more!
+
 You can check out some of my recent work on my Github profile.
 </span>
-<br/> <br/>
-
-<h2 align="center">🛠️ Tech Stack</h2>
-<div align="center">
-
-| Languages | Frameworks | Tools |
-|-----------|------------|-------|
-| JavaScript | React | Prisma |
-| TypeScript | Vue 2/3 | tRPC |
-| PHP | Astro | Docker |
-| Python | Svelte(kit) | GraphQL |
-| | WordPress | Monorepo |
-| | Laravel | Storybook |
-| | Nuxt | Bootstrap |
-| | Next.js | Tailwind |
-| | | CircleCI |
-| | | Jest |
-| | | Cypress |
-| | | SQL |
-
-</div>
-
+<br/> <br/> 
+<h2 align="center">🛠️ Languages</h2>
+<p align="center">
+ <b>
+  Javascript | Typescript | PHP | Python
+</b>
+<h2 align="center">🛠️ Frameworks</h2>
+<p align="center">
+ <b>
+ React | Vue 2/3 | Astro | Svelte(kit) | WordPress | Laravel | Nuxt | Next.js
+  </b>
+</p>
+<h2 align="center">🛠️ Tools</h2>
+<p align="center">
+ <b>
+ Prisma  |  tRPC  |  Docker  | GraphQL | Monorepo | Storybook | Bootstrap | Tailwind | CircleCI | Jest | Cypress | SQL
+  </b>
+</p>
 <hr />
 <h2 align="center"> 🏆 Github Trophies</h2>
 <p align="center">
@@ -57,3 +55,4 @@ You can check out some of my recent work on my Github profile.
  <img src="https://github.com/w3bdesign/github-stats/blob/master/generated/overview.svg" alt="Overview" />
  <img src="https://github.com/w3bdesign/github-stats/blob/master/generated/languages.svg" alt="Languages" />
  </p>
+
