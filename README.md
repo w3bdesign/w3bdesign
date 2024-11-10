@@ -15,44 +15,54 @@ You can check out some of my recent work on my Github profile.
 
 <div align="center">
 
-## 🛠️ Languages
 
-| Languages |
-|:---------:|
-| JavaScript |
-| TypeScript |
-| PHP |
-| Python |
+<table>
+<tr>
+<td align="center">
+<h2>🛠️ Languages</h2>
+<table>
+<tr><td align="center">JavaScript</td></tr>
+<tr><td align="center">TypeScript</td></tr>
+<tr><td align="center">PHP</td></tr>
+<tr><td align="center">Python</td></tr>
+</table>
+</td>
 
-## 🛠️ Frameworks
+<td align="center">
+<h2>🛠️ Frameworks</h2>
+<table>
+<tr><td align="center">React</td></tr>
+<tr><td align="center">Vue 2/3</td></tr>
+<tr><td align="center">Astro</td></tr>
+<tr><td align="center">Svelte(kit)</td></tr>
+<tr><td align="center">WordPress</td></tr>
+<tr><td align="center">Laravel</td></tr>
+<tr><td align="center">Nuxt</td></tr>
+<tr><td align="center">Next.js</td></tr>
+</table>
+</td>
 
-| Frameworks |
-|:----------:|
-| React |
-| Vue 2/3 |
-| Astro |
-| Svelte(kit) |
-| WordPress |
-| Laravel |
-| Nuxt |
-| Next.js |
+<td align="center">
+<h2>🛠️ Tools</h2>
+<table>
+<tr><td align="center">Prisma</td></tr>
+<tr><td align="center">tRPC</td></tr>
+<tr><td align="center">Docker</td></tr>
+<tr><td align="center">GraphQL</td></tr>
+<tr><td align="center">Monorepo</td></tr>
+<tr><td align="center">Storybook</td></tr>
+<tr><td align="center">Bootstrap</td></tr>
+<tr><td align="center">Tailwind</td></tr>
+<tr><td align="center">CircleCI</td></tr>
+<tr><td align="center">Jest</td></tr>
+<tr><td align="center">Cypress</td></tr>
+<tr><td align="center">SQL</td></tr>
+</table>
+</td>
+</tr>
+</table>
 
-## 🛠️ Tools
 
-| Tools |
-|:-----:|
-| Prisma |
-| tRPC |
-| Docker |
-| GraphQL |
-| Monorepo |
-| Storybook |
-| Bootstrap |
-| Tailwind |
-| CircleCI |
-| Jest |
-| Cypress |
-| SQL |
 
 </div>
 
