@@ -5,15 +5,15 @@
 
 <div align="center">
 
-| Metric | Value |
-|:---:|:---:|
-| 🏆 Universal Rank | Top 0.5% on GitHub |
-| 🔥 Contribution Streak | 365 Days |
-| 💻 Total Commits | 17,820 |
-| ⭐ Stars Earned | 1,011 |
-| 📊 Most Active | October & Mondays |
-| 🔷 Top Language | TypeScript |
-| ⚡ Power Level | God Mode |
+| Emoji | Metric | Value |
+|:---:|:---:|:---:|
+| 🏆 | Universal Rank | Top 0.5% on GitHub |
+| 🔥 | Contribution Streak | 365 Days |
+| 💻 | Total Commits | 17,820 |
+| ⭐ | Stars Earned | 1,011 |
+| 📊 | Most Active | October & Mondays |
+| 🔷 | Top Language | TypeScript |
+| ⚡ | Power Level | God Mode |
 
 </div>
 
