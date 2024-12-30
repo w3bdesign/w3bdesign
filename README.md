@@ -2,17 +2,21 @@
 <h1 align="center"><img src="https://github.com/w3bdesign/w3bdesign/blob/master/svg/animated-header.svg" alt="Header image" /></h1> 
 
 <h2 align="center">🎯 <a href="https://git-wrapped.com/profiles/W3bdesign">Github 2024 Year in Code</a></h2>
-<p align="center">
- <b>
-  🏆 Top 0.5% Universal Rank on GitHub<br/>
-  🔥 365 Days Contribution Streak<br/>
-  💻 17,820 Total Commits<br/>
-  ⭐ 1,011 Stars Earned<br/>
-  📊 Most Active: October & Mondays<br/>
-  🔷 Top Language: TypeScript<br/>
-  ⚡ Power Level: God Mode
- </b>
-</p>
+
+<div align="center">
+
+| Metric | Value |
+|:---:|:---:|
+| 🏆 Universal Rank | Top 0.5% on GitHub |
+| 🔥 Contribution Streak | 365 Days |
+| 💻 Total Commits | 17,820 |
+| ⭐ Stars Earned | 1,011 |
+| 📊 Most Active | October & Mondays |
+| 🔷 Top Language | TypeScript |
+| ⚡ Power Level | God Mode |
+
+</div>
+
 <hr/>
 
 <span align="center">Hi there, I'm Daniel Fjeldstad, and I've been passionate about web design and development since 2000. Over the years, I've had the privilege of working on a variety of exciting projects, and I've learned the importance of code quality, continuous improvement, and following best coding practices as often as possible.
