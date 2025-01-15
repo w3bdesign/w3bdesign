@@ -46,7 +46,7 @@ You can check out some of my recent work on my Github profile.
 <h2 align="center">🛠️ Tools</h2>
 <p align="center">
  <b>
- Prisma  |  tRPC  |  Docker  | GraphQL | Monorepo | Storybook | Bootstrap | Tailwind | CircleCI | Jest | Cypress | SQL
+ Prisma  |  tRPC  |  Docker  | GraphQL | Monorepo | Storybook/Ladle | Bootstrap | Tailwind | CircleCI | Jest | Cypress | SQL
   </b>
 </p>
 <hr />
