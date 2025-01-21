@@ -25,7 +25,7 @@ I believe that great code is not just about functionality, but also about readab
 <br/> <br/> 
 In my free time, I love to explore new technologies and techniques, experiment with design and development tools, and contribute to open-source projects.
 <br/> <br/> 
-According to <a href="https://committers.top/norway_private">https://committers.top/norway_private</a> I am currently the most active developer in Norway on Github!
+<b>Since 2021, according to <a href="https://committers.top/norway_private">https://committers.top/norway_private</a> I have been the most active developer in Norway on Github!</b>
 <br/> <br/> 
 Right now my primary focus is on experimenting with OpenAI's O1 and Anthropic's Claude 3.5 Sonnet as well as other new AI models and finding out how to best utilize it for web development, coding assistance, vector databases, embeddings, online research, implementing it with AI-based online applications, such as https://github.com/w3bdesign/spotify-import and a lot more!
 
