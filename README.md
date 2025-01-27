@@ -1,6 +1,8 @@
 
 <h1 align="center"><img src="https://www.dfweb.no/animated-header.svg?" alt="Header image" /></h1> 
 
+<h1 align="center"><img src="https://www.dfweb.no/animated-header.gif" alt="Header image" /></h1> 
+
 <h2 align="center">🎯 <a href="https://git-wrapped.com/profiles/W3bdesign">Github 2024 Year in Code</a></h2>
 
 <div align="center">
