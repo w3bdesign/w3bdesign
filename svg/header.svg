@@ -1,0 +1,217 @@
+<svg fill="none" viewBox="0 0 300 100" width="300" height="90" xmlns="http://www.w3.org/2000/svg"><script xmlns=""/>
+  <foreignObject width="100%" height="100">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        * {
+          margin: 0;
+          padding: 0;
+        }
+
+        body,
+        html {
+          overflow: hidden;
+        }
+  
+        .container .box {
+          width: 290px;
+          height: 90px;
+          position: relative;
+          display: flex;
+          justify-content: center;
+          flex-direction: column;          
+          background: #000080;
+          animation: fadeInBorder 10s cubic-bezier(0.74, 0.06, 0.4, 0.92) forwards;
+          animation-delay: 0s;
+          will-change: opacity, transform;
+        }
+        .container .box .title {
+          width: 100%;
+          position: relative;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          height: 50px;
+        }
+        .container .box .title .block {
+          width: 0%;
+          height: inherit;
+          background: #dbc45a;
+          position: absolute;
+          animation: mainBlock 2s cubic-bezier(0.74, 0.06, 0.4, 0.92) forwards;
+          display: flex;
+          will-change: transform;
+        }
+        .container .box .title h1 {
+          font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+          color: #fff;
+          font-size: 32px;
+          animation: mainFadeIn 2s forwards;
+          animation-delay: 1.6s;
+          opacity: 0;
+          display: flex;
+          align-items: baseline;
+          position: relative;
+          margin-left: 5px;
+          will-change: opacity;
+        }
+        .container .box .title h1 span {
+          width: 0px;
+          height: 0px;
+          border-radius: 50%;
+          background: #dbc45a;
+          animation: popIn 0.8s cubic-bezier(0.74, 0.06, 0.4, 0.92) forwards;
+          animation-delay: 2s;
+          margin-left: 5px;
+          margin-top: -10px;
+          position: absolute;
+          bottom: 13px;
+          right: -12px;
+          will-change: transform;
+        }
+        .container .box .role {
+          width: 100%;
+          position: relative;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          height: 30px;
+          margin-top: -10px;
+        }
+        .container .box .role .block {
+          width: 0%;
+          height: inherit;
+          background: #dbc45a;
+          position: absolute;
+          animation: secBlock 2s cubic-bezier(0.74, 0.06, 0.4, 0.92) forwards;
+          animation-delay: 2s;
+          display: flex;
+          will-change: transform;
+        }
+        .container .box .role p {
+          animation: secFadeIn 2s forwards;
+          animation-delay: 3.2s;
+          opacity: 0;
+          font-weight: 1000;
+          font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+          color: #fff;
+          font-size: 14px;
+          text-transform: uppercase;
+          letter-spacing: 5px;
+          margin-left: 5px;
+          will-change: opacity;
+        }
+        @keyframes fadeInBorder {
+          0% {
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            box-shadow: rgba(0, 0, 0, 0.1) 0px 3px 3px -2px,
+              rgba(0, 0, 0, 0.14) 0px 3px 4px 0px,
+              rgba(0, 0, 0, 0.12) 0px 1px 8px 0px;
+          }
+
+          50% {
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            box-shadow: rgba(0, 0, 0, 0.15) 0px 3px 3px -2px,
+              rgba(0, 0, 0, 0.14) 0px 3px 4px 0px,
+              rgba(0, 0, 0, 0.12) 0px 1px 8px 0px;
+          }
+
+          100% {
+            border: 1px solid rgba(255, 255, 255, 0.3);
+            box-shadow: rgba(0, 0, 0, 0.2) 0px 3px 3px -2px,
+              rgba(0, 0, 0, 0.14) 0px 3px 4px 0px,
+              rgba(0, 0, 0, 0.12) 0px 1px 8px 0px;
+          }
+        }
+        @keyframes mainBlock {
+          0% {
+            width: 0%;
+            left: 0;
+          }
+          50% {
+            width: 100%;
+            left: 0;
+          }
+          100% {
+            width: 0;
+            left: 100%;
+          }
+        }
+        @keyframes secBlock {
+          0% {
+            width: 0%;
+            left: 0;
+          }
+          50% {
+            width: 100%;
+            left: 0;
+          }
+          100% {
+            width: 0;
+            left: 100%;
+          }
+        }
+        @keyframes mainFadeIn {
+          0% {
+            opacity: 0;
+          }
+          100% {
+            opacity: 1;
+          }
+        }
+        @keyframes popIn {
+          0% {
+            width: 0px;
+            height: 0px;
+            background: #dbc45a;
+            opacity: 0;
+          }
+          50% {
+            width: 10px;
+            height: 10px;
+            background: #dbc45a;
+            opacity: 1;
+            bottom: 45px;
+          }
+          65% {
+            width: 7px;
+            height: 7px;
+            bottom: 0px;
+            width: 15px;
+          }
+          80% {
+            width: 10px;
+            height: 10px;
+            bottom: 20px;
+          }
+          100% {
+            width: 7px;
+            height: 7px;
+            background: #dbc45a;
+            opacity: 1;
+            bottom: 13px;
+          }
+        }
+        @keyframes secFadeIn {
+          0% {
+            opacity: 0;
+          }
+          100% {
+            opacity: 1;
+          }
+        }
+      </style> 
+      <div class="container">
+        <div class="box">
+          <div class="title">
+            <span class="block"></span>
+            <h1>Daniel<span></span></h1>
+          </div>
+          <div class="role">
+            <div class="block"></div>
+            <p>Senior developer</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
