@@ -1,223 +1,108 @@
-<svg
-  fill="none"
-  viewBox="0 0 300 100"
-  width="300"
-  height="90"
-  xmlns="http://www.w3.org/2000/svg"
->
-  <foreignObject width="100%" height="100">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        * {
-          margin: 0;
-          padding: 0;
-        }
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300" height="90" viewBox="0 0 300 90" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <rect id="block" width="300" height="40" fill="#dbc45a"/>
+  </defs>
 
-        body,
-        html {
-          overflow: hidden;
-        }
+  <!-- Background -->
+  <rect width="300" height="90" fill="#000080"/>
   
-        .container .box {
-          width: 290px;
-          height: 90px;
-          position: relative;
-          display: flex;
-          justify-content: center;
-          flex-direction: column;          
-          background: #000080;
-          animation: fadeInBorder 10s cubic-bezier(0.74, 0.06, 0.4, 0.92) infinite;
-          will-change: opacity, transform;
-        }
-        .container .box .title {
-          width: 100%;
-          position: relative;
-          display: flex;
-          align-items: center;
-          justify-content: center;
-          height: 50px;
-        }
-        .container .box .title .block {
-          width: 0%;
-          height: inherit;
-          background: #dbc45a;
-          position: absolute;
-          animation: mainBlock 4s cubic-bezier(0.74, 0.06, 0.4, 0.92) infinite;
-          display: flex;
-          will-change: transform;
-        }
-        .container .box .title h1 {
-          font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
-          color: #fff;
-          font-size: 32px;
-          animation: mainFadeIn 4s infinite;
-          animation-delay: 1s;
-          opacity: 0;
-          display: flex;
-          align-items: baseline;
-          position: relative;
-          margin-left: 5px;
-          will-change: opacity;
-        }
-        .container .box .title h1 span {
-          width: 0px;
-          height: 0px;
-          border-radius: 50%;
-          background: #dbc45a;
-          animation: popIn 4s cubic-bezier(0.74, 0.06, 0.4, 0.92) infinite;
-          animation-delay: 1.5s;
-          margin-left: 5px;
-          margin-top: -10px;
-          position: absolute;
-          bottom: 13px;
-          right: -12px;
-          will-change: transform;
-        }
-        .container .box .role {
-          width: 100%;
-          position: relative;
-          display: flex;
-          align-items: center;
-          justify-content: center;
-          height: 30px;
-          margin-top: -10px;
-        }
-        .container .box .role .block {
-          width: 0%;
-          height: inherit;
-          background: #dbc45a;
-          position: absolute;
-          animation: secBlock 4s cubic-bezier(0.74, 0.06, 0.4, 0.92) infinite;
-          animation-delay: 1.5s;
-          display: flex;
-          will-change: transform;
-        }
-        .container .box .role p {
-          animation: secFadeIn 4s infinite;
-          animation-delay: 2s;
-          opacity: 0;
-          font-weight: 1000;
-          font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
-          color: #fff;
-          font-size: 14px;
-          text-transform: uppercase;
-          letter-spacing: 5px;
-          margin-left: 5px;
-          will-change: opacity;
-        }
-        @keyframes fadeInBorder {
-          0%, 100% {
-            border: 1px solid rgba(255, 255, 255, 0.1);
-            box-shadow: rgba(0, 0, 0, 0.1) 0px 3px 3px -2px,
-              rgba(0, 0, 0, 0.14) 0px 3px 4px 0px,
-              rgba(0, 0, 0, 0.12) 0px 1px 8px 0px;
-          }
+  <!-- Title section -->
+  <g>
+    <!-- Sliding block animation -->
+    <use href="#block" y="25">
+      <animate
+        attributeName="x"
+        values="-300; -300; 0; 0; 300"
+        keyTimes="0; 0.3; 0.5; 0.7; 1"
+        dur="4s"
+        repeatCount="indefinite"
+      />
+    </use>
+    
+    <!-- Text -->
+    <text x="150" y="52" 
+          font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial" 
+          font-size="32" 
+          fill="#ffffff" 
+          text-anchor="middle"
+          opacity="0">
+      Daniel
+      <animate
+        attributeName="opacity"
+        values="0; 0; 1; 1; 1; 0"
+        keyTimes="0; 0.4; 0.5; 0.8; 0.9; 1"
+        dur="4s"
+        repeatCount="indefinite"
+      />
+    </text>
+    
+    <!-- Dot -->
+    <circle cx="198" cy="45" r="0" fill="#dbc45a">
+      <animate
+        attributeName="r"
+        values="0; 0; 4; 3; 4; 3; 0"
+        keyTimes="0; 0.4; 0.5; 0.6; 0.7; 0.8; 1"
+        dur="4s"
+        repeatCount="indefinite"
+      />
+      <animate
+        attributeName="cy"
+        values="45; 45; 25; 45; 35; 45; 45"
+        keyTimes="0; 0.4; 0.5; 0.6; 0.7; 0.8; 1"
+        dur="4s"
+        repeatCount="indefinite"
+      />
+      <animate
+        attributeName="opacity"
+        values="0; 0; 1; 1; 1; 1; 0"
+        keyTimes="0; 0.4; 0.5; 0.6; 0.7; 0.8; 1"
+        dur="4s"
+        repeatCount="indefinite"
+      />
+    </circle>
+  </g>
+  
+  <!-- Role section -->
+  <g>
+    <!-- Sliding block animation -->
+    <use href="#block" y="55">
+      <animate
+        attributeName="x"
+        values="-300; -300; -300; 0; 0; 300"
+        keyTimes="0; 0.4; 0.5; 0.7; 0.8; 1"
+        dur="4s"
+        repeatCount="indefinite"
+      />
+    </use>
+    
+    <!-- Text -->
+    <text x="150" y="75" 
+          font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial" 
+          font-size="14" 
+          fill="#ffffff" 
+          text-anchor="middle" 
+          font-weight="bold"
+          opacity="0">
+      <tspan letter-spacing="3">SENIOR DEVELOPER</tspan>
+      <animate
+        attributeName="opacity"
+        values="0; 0; 0; 1; 1; 0"
+        keyTimes="0; 0.5; 0.6; 0.7; 0.9; 1"
+        dur="4s"
+        repeatCount="indefinite"
+      />
+    </text>
+  </g>
 
-          50% {
-            border: 1px solid rgba(255, 255, 255, 0.3);
-            box-shadow: rgba(0, 0, 0, 0.2) 0px 3px 3px -2px,
-              rgba(0, 0, 0, 0.14) 0px 3px 4px 0px,
-              rgba(0, 0, 0, 0.12) 0px 1px 8px 0px;
-          }
-        }
-        @keyframes mainBlock {
-          0%, 100% {
-            width: 0%;
-            left: 0;
-          }
-          45% {
-            width: 100%;
-            left: 0;
-          }
-          55% {
-            width: 100%;
-            left: 0;
-          }
-          100% {
-            width: 0;
-            left: 100%;
-          }
-        }
-        @keyframes secBlock {
-          0%, 100% {
-            width: 0%;
-            left: 0;
-          }
-          45% {
-            width: 100%;
-            left: 0;
-          }
-          55% {
-            width: 100%;
-            left: 0;
-          }
-          100% {
-            width: 0;
-            left: 100%;
-          }
-        }
-        @keyframes mainFadeIn {
-          0%, 100% {
-            opacity: 0;
-          }
-          30%, 70% {
-            opacity: 1;
-          }
-        }
-        @keyframes popIn {
-          0%, 100% {
-            width: 0px;
-            height: 0px;
-            background: #dbc45a;
-            opacity: 0;
-          }
-          30% {
-            width: 10px;
-            height: 10px;
-            background: #dbc45a;
-            opacity: 1;
-            bottom: 45px;
-          }
-          40% {
-            width: 7px;
-            height: 7px;
-            bottom: 0px;
-            width: 15px;
-          }
-          50% {
-            width: 10px;
-            height: 10px;
-            bottom: 20px;
-          }
-          60%, 70% {
-            width: 7px;
-            height: 7px;
-            background: #dbc45a;
-            opacity: 1;
-            bottom: 13px;
-          }
-        }
-        @keyframes secFadeIn {
-          0%, 100% {
-            opacity: 0;
-          }
-          30%, 70% {
-            opacity: 1;
-          }
-        }
-      </style> 
-      <div class="container">
-        <div class="box">
-          <div class="title">
-            <span class="block"></span>
-            <h1>Daniel<span></span></h1>
-          </div>
-          <div class="role">
-            <div class="block"></div>
-            <p>Senior developer</p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </foreignObject>
+  <!-- Border animation -->
+  <rect width="298" height="88" x="1" y="1" fill="none" stroke="#ffffff" stroke-opacity="0.2">
+    <animate
+      attributeName="stroke-opacity"
+      values="0.1; 0.2; 0.1"
+      keyTimes="0; 0.5; 1"
+      dur="4s"
+      repeatCount="indefinite"
+    />
+  </rect>
 </svg>
