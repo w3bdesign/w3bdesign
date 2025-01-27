@@ -13,11 +13,12 @@
     <use href="#block" y="15">
       <animate
         attributeName="x"
-        values="-300; -300; 0; 0; 300"
-        keyTimes="0; 0.3; 0.5; 0.7; 1"
+        from="-300"
+        to="300"
         dur="4s"
-        begin="0s"
-        restart="always"
+        keyTimes="0; 0.3; 0.5; 0.7; 1"
+        calcMode="spline"
+        keySplines="0.3 0 0.7 1; 0.3 0 0.7 1; 0.3 0 0.7 1; 0.3 0 0.7 1"
         repeatCount="1"
         fill="freeze"
       />
@@ -33,11 +34,12 @@
       Daniel
       <animate
         attributeName="opacity"
-        values="0; 0; 1; 1; 1"
-        keyTimes="0; 0.4; 0.5; 0.8; 1"
+        from="0"
+        to="1"
         dur="4s"
-        begin="0s"
-        restart="always"
+        keyTimes="0; 0.4; 0.5; 0.8; 1"
+        calcMode="spline"
+        keySplines="0.3 0 0.7 1; 0.3 0 0.7 1; 0.3 0 0.7 1; 0.3 0 0.7 1"
         repeatCount="1"
         fill="freeze"
       />
@@ -50,11 +52,12 @@
     <use href="#block" y="45">
       <animate
         attributeName="x"
-        values="-300; -300; -300; 0; 0; 300"
-        keyTimes="0; 0.4; 0.5; 0.7; 0.8; 1"
+        from="-300"
+        to="300"
         dur="4s"
-        begin="0s"
-        restart="always"
+        keyTimes="0; 0.4; 0.5; 0.7; 0.8; 1"
+        calcMode="spline"
+        keySplines="0.3 0 0.7 1; 0.3 0 0.7 1; 0.3 0 0.7 1; 0.3 0 0.7 1; 0.3 0 0.7 1"
         repeatCount="1"
         fill="freeze"
       />
@@ -71,11 +74,12 @@
       <tspan letter-spacing="3">SENIOR DEVELOPER</tspan>
       <animate
         attributeName="opacity"
-        values="0; 0; 0; 1; 1"
-        keyTimes="0; 0.5; 0.6; 0.7; 1"
+        from="0"
+        to="1"
         dur="4s"
-        begin="0s"
-        restart="always"
+        keyTimes="0; 0.5; 0.6; 0.7; 1"
+        calcMode="spline"
+        keySplines="0.3 0 0.7 1; 0.3 0 0.7 1; 0.3 0 0.7 1; 0.3 0 0.7 1"
         repeatCount="1"
         fill="freeze"
       />
@@ -86,11 +90,12 @@
   <rect width="298" height="88" x="1" y="1" fill="none" stroke="#ffffff" stroke-opacity="0.2">
     <animate
       attributeName="stroke-opacity"
-      values="0.1; 0.2; 0.2"
-      keyTimes="0; 0.5; 1"
+      from="0.1"
+      to="0.2"
       dur="4s"
-      begin="0s"
-      restart="always"
+      keyTimes="0; 0.5; 1"
+      calcMode="spline"
+      keySplines="0.3 0 0.7 1; 0.3 0 0.7 1"
       repeatCount="1"
       fill="freeze"
     />
