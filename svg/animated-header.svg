@@ -16,6 +16,8 @@
         values="-300; -300; 0; 0; 300"
         keyTimes="0; 0.3; 0.5; 0.7; 1"
         dur="4s"
+        begin="0s"
+        restart="always"
         repeatCount="1"
         fill="freeze"
       />
@@ -34,6 +36,8 @@
         values="0; 0; 1; 1; 1"
         keyTimes="0; 0.4; 0.5; 0.8; 1"
         dur="4s"
+        begin="0s"
+        restart="always"
         repeatCount="1"
         fill="freeze"
       />
@@ -49,6 +53,8 @@
         values="-300; -300; -300; 0; 0; 300"
         keyTimes="0; 0.4; 0.5; 0.7; 0.8; 1"
         dur="4s"
+        begin="0s"
+        restart="always"
         repeatCount="1"
         fill="freeze"
       />
@@ -68,6 +74,8 @@
         values="0; 0; 0; 1; 1"
         keyTimes="0; 0.5; 0.6; 0.7; 1"
         dur="4s"
+        begin="0s"
+        restart="always"
         repeatCount="1"
         fill="freeze"
       />
@@ -81,6 +89,8 @@
       values="0.1; 0.2; 0.2"
       keyTimes="0; 0.5; 1"
       dur="4s"
+      begin="0s"
+      restart="always"
       repeatCount="1"
       fill="freeze"
     />
