@@ -16,7 +16,7 @@
         values="-300; -300; 0; 0; 300"
         keyTimes="0; 0.3; 0.5; 0.7; 1"
         dur="4s"
-        repeatCount="indefinite"
+        repeatCount="1"
       />
     </use>
     
@@ -33,11 +33,34 @@
         values="0; 0; 1; 1; 1; 0"
         keyTimes="0; 0.4; 0.5; 0.8; 0.9; 1"
         dur="4s"
-        repeatCount="indefinite"
+        repeatCount="1"
       />
     </text>
     
-    
+    <!-- Dot -->
+    <circle cx="198" cy="45" r="0" fill="#dbc45a">
+      <animate
+        attributeName="r"
+        values="0; 0; 4; 3; 4; 3; 0"
+        keyTimes="0; 0.4; 0.5; 0.6; 0.7; 0.8; 1"
+        dur="4s"
+        repeatCount="1"
+      />
+      <animate
+        attributeName="cy"
+        values="45; 45; 25; 45; 35; 45; 45"
+        keyTimes="0; 0.4; 0.5; 0.6; 0.7; 0.8; 1"
+        dur="4s"
+        repeatCount="1"
+      />
+      <animate
+        attributeName="opacity"
+        values="0; 0; 1; 1; 1; 1; 0"
+        keyTimes="0; 0.4; 0.5; 0.6; 0.7; 0.8; 1"
+        dur="4s"
+        repeatCount="1"
+      />
+    </circle>
   </g>
   
   <!-- Role section -->
@@ -49,7 +72,7 @@
         values="-300; -300; -300; 0; 0; 300"
         keyTimes="0; 0.4; 0.5; 0.7; 0.8; 1"
         dur="4s"
-        repeatCount="indefinite"
+        repeatCount="1"
       />
     </use>
     
@@ -67,7 +90,7 @@
         values="0; 0; 0; 1; 1; 0"
         keyTimes="0; 0.5; 0.6; 0.7; 0.9; 1"
         dur="4s"
-        repeatCount="indefinite"
+        repeatCount="1"
       />
     </text>
   </g>
@@ -79,7 +102,7 @@
       values="0.1; 0.2; 0.1"
       keyTimes="0; 0.5; 1"
       dur="4s"
-      repeatCount="indefinite"
+      repeatCount="1"
     />
   </rect>
 </svg>
