@@ -26,8 +26,7 @@
           justify-content: center;
           flex-direction: column;          
           background: #000080;
-          animation: fadeInBorder 10s cubic-bezier(0.74, 0.06, 0.4, 0.92) forwards;
-          animation-delay: 0s;
+          animation: fadeInBorder 10s cubic-bezier(0.74, 0.06, 0.4, 0.92) infinite;
           will-change: opacity, transform;
         }
         .container .box .title {
@@ -43,7 +42,7 @@
           height: inherit;
           background: #dbc45a;
           position: absolute;
-          animation: mainBlock 2s cubic-bezier(0.74, 0.06, 0.4, 0.92) forwards;
+          animation: mainBlock 4s cubic-bezier(0.74, 0.06, 0.4, 0.92) infinite;
           display: flex;
           will-change: transform;
         }
@@ -51,8 +50,8 @@
           font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
           color: #fff;
           font-size: 32px;
-          animation: mainFadeIn 2s forwards;
-          animation-delay: 1.6s;
+          animation: mainFadeIn 4s infinite;
+          animation-delay: 1s;
           opacity: 0;
           display: flex;
           align-items: baseline;
@@ -65,8 +64,8 @@
           height: 0px;
           border-radius: 50%;
           background: #dbc45a;
-          animation: popIn 0.8s cubic-bezier(0.74, 0.06, 0.4, 0.92) forwards;
-          animation-delay: 2s;
+          animation: popIn 4s cubic-bezier(0.74, 0.06, 0.4, 0.92) infinite;
+          animation-delay: 1.5s;
           margin-left: 5px;
           margin-top: -10px;
           position: absolute;
@@ -88,14 +87,14 @@
           height: inherit;
           background: #dbc45a;
           position: absolute;
-          animation: secBlock 2s cubic-bezier(0.74, 0.06, 0.4, 0.92) forwards;
-          animation-delay: 2s;
+          animation: secBlock 4s cubic-bezier(0.74, 0.06, 0.4, 0.92) infinite;
+          animation-delay: 1.5s;
           display: flex;
           will-change: transform;
         }
         .container .box .role p {
-          animation: secFadeIn 2s forwards;
-          animation-delay: 3.2s;
+          animation: secFadeIn 4s infinite;
+          animation-delay: 2s;
           opacity: 0;
           font-weight: 1000;
           font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
@@ -107,7 +106,7 @@
           will-change: opacity;
         }
         @keyframes fadeInBorder {
-          0% {
+          0%, 100% {
             border: 1px solid rgba(255, 255, 255, 0.1);
             box-shadow: rgba(0, 0, 0, 0.1) 0px 3px 3px -2px,
               rgba(0, 0, 0, 0.14) 0px 3px 4px 0px,
@@ -115,13 +114,6 @@
           }
 
           50% {
-            border: 1px solid rgba(255, 255, 255, 0.2);
-            box-shadow: rgba(0, 0, 0, 0.15) 0px 3px 3px -2px,
-              rgba(0, 0, 0, 0.14) 0px 3px 4px 0px,
-              rgba(0, 0, 0, 0.12) 0px 1px 8px 0px;
-          }
-
-          100% {
             border: 1px solid rgba(255, 255, 255, 0.3);
             box-shadow: rgba(0, 0, 0, 0.2) 0px 3px 3px -2px,
               rgba(0, 0, 0, 0.14) 0px 3px 4px 0px,
@@ -129,11 +121,15 @@
           }
         }
         @keyframes mainBlock {
-          0% {
+          0%, 100% {
             width: 0%;
             left: 0;
           }
-          50% {
+          45% {
+            width: 100%;
+            left: 0;
+          }
+          55% {
             width: 100%;
             left: 0;
           }
@@ -143,11 +139,15 @@
           }
         }
         @keyframes secBlock {
-          0% {
+          0%, 100% {
             width: 0%;
             left: 0;
           }
-          50% {
+          45% {
+            width: 100%;
+            left: 0;
+          }
+          55% {
             width: 100%;
             left: 0;
           }
@@ -157,39 +157,39 @@
           }
         }
         @keyframes mainFadeIn {
-          0% {
+          0%, 100% {
             opacity: 0;
           }
-          100% {
+          30%, 70% {
             opacity: 1;
           }
         }
         @keyframes popIn {
-          0% {
+          0%, 100% {
             width: 0px;
             height: 0px;
             background: #dbc45a;
             opacity: 0;
           }
-          50% {
+          30% {
             width: 10px;
             height: 10px;
             background: #dbc45a;
             opacity: 1;
             bottom: 45px;
           }
-          65% {
+          40% {
             width: 7px;
             height: 7px;
             bottom: 0px;
             width: 15px;
           }
-          80% {
+          50% {
             width: 10px;
             height: 10px;
             bottom: 20px;
           }
-          100% {
+          60%, 70% {
             width: 7px;
             height: 7px;
             background: #dbc45a;
@@ -198,10 +198,10 @@
           }
         }
         @keyframes secFadeIn {
-          0% {
+          0%, 100% {
             opacity: 0;
           }
-          100% {
+          30%, 70% {
             opacity: 1;
           }
         }
