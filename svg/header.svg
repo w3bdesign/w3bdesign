@@ -95,7 +95,6 @@
           color: #fff;
           font-size: 16px;
           margin-top:-5px;
-          text-transform: uppercase;         
           will-change: opacity;
         }
         @keyframes fadeInBorder {
@@ -206,7 +205,7 @@
           </div>
           <div class="role">
             <div class="block"></div>
-            <h2>Senior developer</h2>
+            <h2>SENIOR DEVELOPER</h2>
           </div>
         </div>
       </div>
