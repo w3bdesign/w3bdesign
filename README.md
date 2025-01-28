@@ -2,10 +2,6 @@
 
 <h2 align="center">🎯 <a href="https://git-wrapped.com/profiles/W3bdesign">Github 2024 Year in Code</a></h2>
 
-<h2 align="center"> 🎯 $${\color{blue}\text{Github 2024 Year in Code}}$$ </h2>
-
-# $${\color{blue}\text{Github 2024 Year in Code}}$$
-
 <div align="center">
 
 | Emoji |       Metric        |       Value        |
