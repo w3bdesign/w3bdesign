@@ -1,4 +1,25 @@
-<h1 align="center"><img src="https://github.com/w3bdesign/w3bdesign/blob/master/svg/header.svg" alt="Header image" /></h1>
+<div align="center">
+  <div style="
+    background: linear-gradient(135deg, #1a237e 0%, #0d47a1 100%);
+    border-radius: 10px;
+    padding: 30px;
+    margin: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    color: white;
+    position: relative;
+    overflow: hidden;
+  ">
+    <div style="
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: linear-gradient(45deg, rgba(255,255,255,0.1) 0%, rgba(255,255,255,0.05) 100%);
+      pointer-events: none;
+    "></div>
+    <div style="position: relative;">
+      <h1 align="center"><img src="https://github.com/w3bdesign/w3bdesign/blob/master/svg/header.svg" alt="Header image" /></h1>
 
 <h2 align="center">🎯 <a href="https://git-wrapped.com/profiles/W3bdesign">Github 2024 Year in Code</a></h2>
 
@@ -16,7 +37,19 @@
 
 </div>
 
-<hr/>
+    </div>
+  </div>
+</div>
+
+<div align="center">
+  <div style="
+    background: linear-gradient(135deg, #1a237e 0%, #0d47a1 100%);
+    border-radius: 10px;
+    padding: 30px;
+    margin: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    color: white;
+  ">
 
 <span align="center">Hi there, I'm Daniel Fjeldstad, and I've been passionate about web design and development since 2000. Over the years, I've had the privilege of working on a variety of exciting projects, and I've learned the importance of code quality, continuous improvement, and following best coding practices as often as possible.
 <br/> <br/>
@@ -49,8 +82,19 @@ You can check out some of my recent work on my Github profile.
  Prisma | tRPC | Docker | GraphQL| Monorepo | Storybook/Ladle | Bootstrap | Tailwind | CircleCI | Jest | Cypress | SQL
   </b>
 </p>
-<hr />
-<h2 align="center"> 🏆 Github Trophies</h2>
+  </div>
+</div>
+
+<div align="center">
+  <div style="
+    background: linear-gradient(135deg, #1a237e 0%, #0d47a1 100%);
+    border-radius: 10px;
+    padding: 30px;
+    margin: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    color: white;
+  ">
+    <h2 align="center" style="color: white;"> 🏆 Github Trophies</h2>
 <p align="center">
 <a href="https://github.com/w3bdesign">
   <img align="center" alt="Github trophies" src="https://github-profile-trophy.vercel.app/?username=w3bdesign&rank=SECRET,SSS,SS,S&margin-w=10&margin-h=5&row=2&column=3" />
@@ -62,14 +106,37 @@ You can check out some of my recent work on my Github profile.
   <img height="100" align="center" alt="Github snake" src="https://raw.githubusercontent.com/w3bdesign/w3bdesign/output/github-contribution-grid-snake.svg" />
 </a>
  </p>
- <hr />
+  </div>
+</div>
+
+<div align="center">
+  <div style="
+    background: linear-gradient(135deg, #1a237e 0%, #0d47a1 100%);
+    border-radius: 10px;
+    padding: 30px;
+    margin: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    color: white;
+  ">
 <h2 align="center"> 🏆 My activity rank in Norway on Github</h2>
 <p align="center">
 <a href="https://committers.top/norway"><img src="https://user-badge.committers.top/norway_private/w3bdesign.svg" alt="Github commit activity rank"></a>
 </p>
-<hr/>
- <h2 align="center">📈 Github Stats</h2> 
- <p align="center">
- <img src="https://github.com/w3bdesign/github-stats/blob/master/generated/overview.svg" alt="Overview" />
- <img src="https://github.com/w3bdesign/github-stats/blob/master/generated/languages.svg" alt="Languages" />
- </p>
+  </div>
+</div>
+<div align="center">
+  <div style="
+    background: linear-gradient(135deg, #1a237e 0%, #0d47a1 100%);
+    border-radius: 10px;
+    padding: 30px;
+    margin: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    color: white;
+  ">
+    <h2 align="center">📈 Github Stats</h2> 
+    <p align="center">
+      <img src="https://github.com/w3bdesign/github-stats/blob/master/generated/overview.svg" alt="Overview" />
+      <img src="https://github.com/w3bdesign/github-stats/blob/master/generated/languages.svg" alt="Languages" />
+    </p>
+  </div>
+</div>
