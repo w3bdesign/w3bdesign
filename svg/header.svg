@@ -96,7 +96,6 @@
           color: #fff;
           font-size: 14px;
           text-transform: uppercase;
-          letter-spacing: 5px;
           margin-left: 5px;
           will-change: opacity;
         }
