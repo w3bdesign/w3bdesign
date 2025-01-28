@@ -75,7 +75,6 @@
           align-items: center;
           justify-content: center;
           height: 30px;
-          margin-top: -10px;
         }
         .container .box .role .block {
           width: 0%;
@@ -87,16 +86,16 @@
           display: flex;
           will-change: transform;
         }
-        .container .box .role p {
+        .container .box .role h2 {
           animation: secFadeIn 2s forwards;
           animation-delay: 3.2s;
           opacity: 0;
           font-weight: 1000;
           font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
           color: #fff;
-          font-size: 14px;
-          text-transform: uppercase;
-          margin-left: 5px;
+          font-size: 16px;
+          margin-top:-5px;
+          text-transform: uppercase;         
           will-change: opacity;
         }
         @keyframes fadeInBorder {
@@ -207,7 +206,7 @@
           </div>
           <div class="role">
             <div class="block"></div>
-            <p>Senior developer</p>
+            <h2>Senior developer</h2>
           </div>
         </div>
       </div>
