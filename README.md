@@ -32,23 +32,17 @@ You can check out some of my recent work on my Github profile.
 </span>
 <br/> <br/>
 
-<h2 align="center">🛠️ Languages</h2>
-<p align="center">
- <b>
-  Javascript | Typescript | PHP | Python
-</b>
-<h2 align="center">🛠️ Frameworks</h2>
-<p align="center">
- <b>
- React | Vue 2/3 | Astro | Svelte(kit) | WordPress | Laravel | Nuxt | Next.js
-  </b>
-</p>
-<h2 align="center">🛠️ Tools</h2>
-<p align="center">
- <b>
- Prisma | tRPC | Docker | GraphQL| Monorepo | Storybook/Ladle | Bootstrap | Tailwind | CircleCI | Jest | Cypress | SQL
-  </b>
-</p>
+<h2 align="center">🛠️ Technologies</h2>
+
+<div align="center">
+
+| Category    | Technologies |
+| :---------: | :---------- |
+| Languages   | JavaScript, TypeScript, PHP, Python |
+| Frameworks  | React, Vue 2/3, Astro, Svelte(kit), WordPress, Laravel, Nuxt, Next.js |
+| Tools       | Prisma, tRPC, Docker, GraphQL, Monorepo, Storybook/Ladle, Bootstrap, Tailwind, CircleCI, Jest, Cypress, SQL |
+
+</div>
 <hr />
 <h2 align="center"> 🏆 Github Trophies</h2>
 <p align="center">
