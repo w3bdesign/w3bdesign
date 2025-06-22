@@ -8,9 +8,9 @@
 | :---: | :-----------------: | :----------------: |
 |  🏆   |   Universal Rank    | Top 0.5% on GitHub |
 |  🔥   | Contribution Streak |      365 Days      |
-|  💻   |    Total Commits    |       17,820       |
-|  ⭐   |    Stars Earned     |       1,011        |
-|  📊   |     Most Active     | October & Mondays  |
+|  💻   |    Total Commits    |       20 174       |
+|  ⭐   |    Stars Earned     |       1059         |
+|  📊   |     Most Active     |      Wednesday     |
 |  🔷   |    Top Language     |     TypeScript     |
 |  ⚡   |     Power Level     |      God Mode      |
 
