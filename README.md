@@ -28,7 +28,7 @@ In my free time, I love to explore new technologies and techniques, experiment w
 <br/> <br/>
 Right now my primary focus is on experimenting with OpenAI's gpt-5, Google's Gemini-2.5-Pro, Deepseek R1 and Anthropic's Claude 4 Sonnet as well as other new AI models and finding out how to best utilize it for web development, coding assistance, vector databases, Langchain, embeddings, online research, implementing it with AI-based online applications, such as https://github.com/w3bdesign/spotify-import and a lot more (most are in private repos)!
 
-You can check out some of my recent work on my Github profile.
+You can check out some of my recent work on this Github profile.
 </span>
 <br/> <br/>
 
