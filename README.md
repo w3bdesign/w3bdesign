@@ -26,7 +26,7 @@ In my free time, I love to explore new technologies and techniques, experiment w
 <br/> <br/>
 <b>Since 2021, according to <a href="https://committers.top/norway_private">https://committers.top/norway_private</a> I have been the most active developer in Norway on Github!</b>
 <br/> <br/>
-Right now my primary focus is on experimenting with OpenAI's gpt-5.1, Google's Gemini 3 Pro Preview, Minimax M2 and Anthropic's Claude 4.5 Sonnet as well as other new AI models and finding out how to best utilize it for web development, coding assistance, vector databases, RAG, Langchain, embeddings, online research, implementing it with AI-based online applications, such as https://github.com/w3bdesign/spotify-import and a lot more (most are in private repos)!
+Right now my primary focus is on experimenting with OpenAI's gpt-5.1 codex max, Google's Gemini 3 Pro Preview, Minimax M2 and Anthropic's Claude 4.5 Opus as well as other new AI models and finding out how to best utilize it for web development, coding assistance, vector databases, RAG, Langchain, embeddings, online research, implementing it with AI-based online applications, such as https://github.com/w3bdesign/spotify-import and a lot more (most are in private repos)!
 
 You can check out some of my recent work on this Github profile.
 </span>
