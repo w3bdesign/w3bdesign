@@ -1,18 +1,19 @@
 <h1 align="center"><img src="https://github.com/w3bdesign/w3bdesign/blob/master/svg/header.svg" alt="Header image" /></h1>
 
-<h2 align="center">🎯 <a href="https://git-wrapped.com/profiles/W3bdesign">Github 2024 Year in Code</a></h2>
+<h2 align="center">🎯 <a href="https://git-wrapped.com/profiles/W3bdesign">Github 2025 Year in Code</a></h2>
 
 <div align="center">
 
-| Emoji |       Metric        |       Value        |
-| :---: | :-----------------: | :----------------: |
-|  🏆   |   Universal Rank    | Top 0.5% on GitHub |
-|  🔥   | Contribution Streak |      365 Days      |
-|  💻   |    Total Commits    |       20 174       |
-|  ⭐   |    Stars Earned     |       1059         |
-|  📊   |     Most Active     |      Wednesday     |
-|  🔷   |    Top Language     |     TypeScript     |
-|  ⚡   |     Power Level     |      God Mode      |
+| Emoji |      Metric       |       Value        |
+| :---: | :---------------: | :----------------: |
+|  👑   |  Universal Rank   | Top 0.5% on GitHub |
+|  ⚡️   |  Longest Streak   |      365 Days      |
+|  🏆   |   Total Commits   |       22 772       |
+|  📅   | Most Active Month |     September      |
+|  📊   |  Most Active Day  |      Thursday      |
+|  ⭐   |    Total Stars    |       1 131        |
+|  🚀   |   Top Language    |     TypeScript     |
+|  🪐   |    Power Level    |      God Mode      |
 
 </div>
 
