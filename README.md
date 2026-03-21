@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://github.com/w3bdesign/w3bdesign/blob/master/svg/header.svg" alt="Header image" /></h1>
+<h1 align="center"><img src="https://github.com/w3bdesign/w3bdesign/blob/master/svg/header.svg" alt="Header image" /></h1> 
 
 <h2 align="center">🎯 <a href="https://git-wrapped.com/profiles/W3bdesign">Github 2025 Year in Code</a></h2>
 
