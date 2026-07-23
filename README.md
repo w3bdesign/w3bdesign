@@ -39,7 +39,7 @@ You can check out some of my recent work on this Github profile.
 
 |  Category  | Technologies                                                                                                |
 | :--------: | :---------------------------------------------------------------------------------------------------------- |
-| Languages  | JavaScript, TypeScript, PHP, Python                                                                         |
+| Languages  | Javascript, Typescript, PHP, Python                                                                         |
 | Frameworks | React, Vue 2/3, Astro, Svelte(kit), WordPress, Laravel, Nuxt, Next.js                                       |
 |   Tools    | Prisma, tRPC, Docker, GraphQL, Monorepo, Storybook/Ladle, Bootstrap, Tailwind, CircleCI, Jest, Cypress, SQL |
 
